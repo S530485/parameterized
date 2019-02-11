@@ -4,6 +4,6 @@ node{
    }
     stage('test print'){
         if (${truth})
-        echo "HEy It is truth not dare Mr.${name}"
+        echo "HEy It is truth not dare Mr " ${name}
 }
 }
