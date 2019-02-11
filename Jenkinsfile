@@ -6,5 +6,8 @@ node{
         if('${params.truth}'){
         echo "HEy It is truth not dare Mr ${params.name}" 
         }
+        else{
+            echo "dare"
+        }
 }
 }
