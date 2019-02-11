@@ -6,3 +6,4 @@ node{
         if (${truth})
         echo "HEy It is truth not dare Mr.${name}"
 }
+}
